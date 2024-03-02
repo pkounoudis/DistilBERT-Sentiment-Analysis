@@ -1,4 +1,4 @@
-It was attempted to train a BERT model in the of sentiment analysis task with Stanford's IMDB Dataset. Specifically, the "distilbert-base-uncased" model from Hugging Face was used. 
+It was attempted to train a BERT model in the task of sentiment analysis, with Stanford's IMDB Dataset. Specifically, the "distilbert-base-uncased" model from Hugging Face was used. 
 
 Also, the training and testing folders were used from the IMDB dataset, containing 50,000 reviews, of which 25,000 are positive and 25,000 are negative. The split for training/validation/test set was 80:10:10. 
 
